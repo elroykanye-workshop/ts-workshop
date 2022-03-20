@@ -11,3 +11,4 @@ function snippet (text: string, length: number): string {
 }
 
 snippet(3, 3);
+
